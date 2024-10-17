@@ -11,5 +11,6 @@ for(int i=0;i<3;++i){
 cout<<v3[i]<<endl;
 }
 cout<<"Bug fixed now"<<endl;
+cout<<"Paralleism included"<<endl;
 return 0;
 }
